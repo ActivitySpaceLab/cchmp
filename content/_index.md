@@ -10,4 +10,4 @@ The Climate Change and Human Mobility Project is supported by the Plan Estatal d
 
 Key resources:
 
-* [Data Management Plan](/docs/Climate_Change_and_Human_Mobility_Project.pdf)
+* [Data Management Plan](docs/Climate_Change_and_Human_Mobility_Project.pdf)
