@@ -6,7 +6,7 @@ cascade:
   featured_image: '/images/Barcelona,_Spain_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg'
 ---
 
-The Climate Change and Human Mobility Project is supported by the Plan Estatal de Investigación Científica, Técnica y de Innovación 2021-2023 funded by MCIN/AEI/EU - CNS2022-135646 and by the European Union’s NextGenerationEU/PRTR program. 
+The Climate Change and Human Mobility Project, Gtant CNS2022-135646, was funded by MCIN/AEI/10.13039/501100011033 and by the European Union NextGenerationEU/PRTR. 
 
 Key resources:
 
