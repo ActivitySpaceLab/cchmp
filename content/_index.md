@@ -14,6 +14,6 @@ Key resources:
 
 
 <div class="about-logos">
-  <img src="/img/aei_logo.png" alt="funding logo">
-  <img src="/img/logo-icrea.png" alt="funding logo icrea">
+  <img src="/images/aei_logo.png" alt="funding logo">
+  <img src="/images/logo-icrea.png" alt="funding logo icrea">
 </div>
