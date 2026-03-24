@@ -11,3 +11,9 @@ The Climate Change and Human Mobility Project, Grant CNS2022-135646, was funded 
 Key resources:
 
 * [Data Management Plan](docs/Climate_Change_and_Human_Mobility_Project.pdf)
+
+
+<div class="about-logos">
+  <img src="/img/aei_logo.png" alt="funding logo">
+  <img src="/img/logo-icrea.png" alt="funding logo icrea">
+</div>
