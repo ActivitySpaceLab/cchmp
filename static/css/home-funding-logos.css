@@ -1,8 +1,8 @@
 /* Home/about funding logos layout */
 .is-home .nested-links .about-logos {
-  --about-second-logo-width: 220;
-  --about-second-logo-height: 201;
-  --about-second-logo-original-aspect-width: 480;
+  --about-second-logo-width: 220px;
+  --about-second-logo-height: 201px;
+  --about-second-logo-original-aspect-width: 480px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -22,12 +22,12 @@
 
 .is-home .nested-links .about-logos > img:first-child {
   max-width: none;
-  height: calc(var(--about-second-logo-width) * 1px * var(--about-second-logo-height) / var(--about-second-logo-original-aspect-width));
+  height: calc(var(--about-second-logo-width) * var(--about-second-logo-height) / var(--about-second-logo-original-aspect-width));
 }
 
 @media (max-width: 768px) {
   .is-home .nested-links .about-logos {
-    --about-second-logo-width: 180;
+    --about-second-logo-width: 180px;
   }
 
   .is-home .nested-links .about-logos > img {
@@ -37,7 +37,7 @@
 
 @media (max-width: 480px) {
   .is-home .nested-links .about-logos {
-    --about-second-logo-width: 140;
+    --about-second-logo-width: 140px;
   }
 
   .is-home .nested-links .about-logos > img {
